@@ -1,2 +1,2 @@
 # ScienceQuestBeta
-A 2D Side Scroller Game about science education made with Unity
+A 2D side scroller game about science education made with Unity 3D
