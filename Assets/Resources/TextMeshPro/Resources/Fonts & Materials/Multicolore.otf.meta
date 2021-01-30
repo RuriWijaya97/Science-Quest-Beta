@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 46635bd3ec29b724a85a554e3b0f1f11
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Multicolore '
+  fontNames:
+  - 'Multicolore '
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 66e4bfc382cf98945b9db74a8ab8248e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
